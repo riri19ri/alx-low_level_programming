@@ -1,7 +1,7 @@
 #include <stdio.h>
-/**                                                                                                                                    
-* main - entry poit                                                                                                                    
-* Return: 0 (success)                                                                                                                  
+/**
+* main - chi l3ba
+* Return: 0 (success)
 */
 int main(void)
 {
